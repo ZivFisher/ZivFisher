@@ -1,4 +1,4 @@
-![Web Development](https://mysiteauditor.com/blog/wp-content/uploads/2013/03/albert-einstein-quote.jpg)
+![Web Development](https://quotefancy.com/media/wallpaper/3840x2160/2071544-Albert-Einstein-Quote-If-you-can-t-explain-something-simply-you.jpg)
 
 <h2 align="center">Skills</h2>
 
