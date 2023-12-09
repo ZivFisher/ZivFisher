@@ -1,4 +1,4 @@
-![Web Development](https://www.thewowstyle.com/wp-content/uploads/2015/01/famous-inspirational-quotes.jpg)
+![Web Development](https://public-media.interaction-design.org/images/ux-daily/5779324fd8aa2.jpg)
 
 <h2 align="center">Skills</h2>
 
