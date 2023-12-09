@@ -1,4 +1,4 @@
-![Web Development](https://cdn.quotesgram.com/img/32/52/1257228892-life_quotes_motivational.jpg)
+![Web Development](https://www.thewowstyle.com/wp-content/uploads/2015/01/famous-inspirational-quotes.jpg)
 
 <h2 align="center">Skills</h2>
 
