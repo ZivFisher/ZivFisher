@@ -1,4 +1,4 @@
-![Web Development](https://public-media.interaction-design.org/images/ux-daily/5779324fd8aa2.jpg)
+![Web Development](https://mysiteauditor.com/blog/wp-content/uploads/2013/03/albert-einstein-quote.jpg)
 
 <h2 align="center">Skills</h2>
 
