@@ -1,4 +1,4 @@
-![Web Development](https://quotefancy.com/media/wallpaper/3840x2160/6564320-Bill-Bradley-Quote-Ambition-is-the-path-to-success-Persistence-is.jpg)
+![Web Development](https://quotefancy.com/media/wallpaper/3840x2160/6264320-Bill-Bradley-Quote-Ambition-is-the-path-to-success-Persistence-is.jpg)
 
 <h2 align="center">Skills</h2>
 
