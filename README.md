@@ -1,9 +1,7 @@
 <h2 align="center">Fullstack Web Developer</h2>
 
-<p align="center">
-  🌍 I'm based in Israel <br/>
-  ✉️ You can contact me at [fisher.ziv@gmail.com](mailto:fisher.ziv@gmail.com)
-</p>
+* 🌍  I'm based in Israel
+* ✉️  You can contact me at [fisher.ziv@gmail.com](mailto:fisher.ziv@gmail.com)
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
