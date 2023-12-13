@@ -1,5 +1,7 @@
 ![Web Development](https://quotefancy.com/media/wallpaper/3840x2160/2071544-Albert-Einstein-Quote-If-you-can-t-explain-something-simply-you.jpg)
 
+<br/><br/><br/><br/><br/><br/>
+
 <h2 align="center">Skills and Tools</h2>
 
 <div align="center">
