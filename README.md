@@ -18,4 +18,3 @@
 
 <br/><br/><br/><br/>
 
-* ✉️  You can contact me at [fisher.ziv@gmail.com](mailto:fisher.ziv@gmail.com)
