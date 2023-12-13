@@ -4,8 +4,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts," /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,nextjs" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,mysql,linux,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,vite,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,mysql,linux,git,aws" /><br>
 </div>
 
 <h2 align="center">LinkedIn Profile
