@@ -1,4 +1,4 @@
-![Web Development](https://img.freepik.com/free-vector/circuit-network-abstract-shape-diagonal-shinny-background_1409-1847.jpg?t=st=1702781788~exp=1702782388~hmac=62d35e9c11187a035946d30e54699a301b9337280e4012900836b49e9292d02f)
+![Web Development](https://img.freepik.com/premium-vector/abstract-technology-background-design_46250-2671.jpg)
 
 <br/><br/><br/><br/><br/><br/>
 
