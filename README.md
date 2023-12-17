@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=docker,mysql,linux,git,aws" /><br>
 </div>
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <div align="center">
 <a href="https://app.daily.dev/zivfisher"><img src="https://api.daily.dev/devcards/c05f942df9ab4dc2a35691a1f3cd7349.png?r=ao1" width="400" alt="ziv fisher's Dev Card"/></a>
