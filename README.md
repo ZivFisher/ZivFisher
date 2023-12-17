@@ -1,4 +1,4 @@
-![Web Development](https://www.mccneb.edu/getattachment/Academics/Programs-of-Study/Information-Technology/IT-Degrees-Certificates/I-T-Degrees/AASIT/Web-Development/WebDevelopment.png.aspx?lang=en-US)
+![Web Development](https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg)
 
 <br/><br/><br/><br/><br/><br/>
 
