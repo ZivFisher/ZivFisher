@@ -1,4 +1,4 @@
-![Web Development](https://img.freepik.com/premium-vector/abstract-technology-background-design_46250-2671.jpg)
+![Web Development](https://virtual-bg.com/wp-content/uploads/2020/06/professional-2-background-for-zoom-or-teams-unsplash.jpg)
 
 <br/><br/><br/><br/><br/><br/>
 
